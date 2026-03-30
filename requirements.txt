@@ -1,0 +1,20 @@
+# Speech-to-Text (Whisper)
+openai-whisper>=20231117
+
+# Text-to-Speech (Edge TTS - Microsoft)
+edge-tts>=6.1.0
+
+# Audio processing
+sounddevice>=0.4.6
+numpy>=1.24.0
+pygame>=2.5.0
+
+# HTTP requests for Ollama
+requests>=2.31.0
+
+# PyTorch (for Whisper)
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Additional dependencies
+scipy>=1.11.0
